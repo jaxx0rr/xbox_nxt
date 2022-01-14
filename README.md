@@ -1,5 +1,5 @@
 # xbox_nxt
-Controll NXT Motors using XBOX 360/One Controller
+Python script to control NXT Motors using XBOX 360/One Controller
 
 
 installation instructions:
