@@ -6,8 +6,8 @@ installation instructions:
 1. install python 3.x
 
 2. install required libs:
-pip install --upgrade --pre nxt-python
-pip install common
+  pip install --upgrade --pre nxt-python
+  pip install common
 
 3. manually install pybluez from here:
   https://github.com/pybluez/pybluez
