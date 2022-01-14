@@ -1,7 +1,6 @@
 # xbox_nxt
 Python script to control NXT Motors using XBOX 360/One Controller
 
-
 installation instructions:
 
 1. install python 3.x
@@ -14,8 +13,7 @@ pip install common
   https://github.com/pybluez/pybluez
 
 - extract pybluez-master.zip
-- cmd / cd into folder and run
-  python setup.py install
+- cmd / cd into folder and run "python setup.py install"
 - if it gives an error you need to install vcpp build tools from here
   https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
