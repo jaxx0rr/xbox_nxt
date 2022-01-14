@@ -13,7 +13,8 @@ installation instructions:
 - extract pybluez-master.zip
 - cmd / cd into folder and run "python setup.py install"
 - if it gives an error you need to install vcpp build tools from here: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-
+- just the Desktop development with C++
+- 
 4. make sure the brick is paired (test connection with bricxcc if you want) 
 - for this you need to have the nxt drivers installed from here: http://www.mindsensors.com/content/18-enhanced-firmware-for-nxt
 
