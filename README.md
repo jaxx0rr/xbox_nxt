@@ -15,8 +15,8 @@ installation instructions:
 - if it gives an error you need to install vcpp build tools from here: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 (just the Desktop development with C++)
 
-4. make sure the brick is paired (test connection with bricxcc if you want) 
-- for this you need to have the nxt drivers installed from here: http://www.mindsensors.com/content/18-enhanced-firmware-for-nxt
+4. make sure the brick is paired (test connection with bricxcc if you want - https://sourceforge.net/projects/bricxcc/files/bricxcc/) 
+- for this to work you need to have the nxt drivers installed: http://www.mindsensors.com/content/18-enhanced-firmware-for-nxt
 
 5. in line 114 of the script change ur nxt name
 - with nxt.locator.find(name="Bender") as b:
