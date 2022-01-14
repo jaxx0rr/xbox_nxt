@@ -3,7 +3,7 @@ Python script to control NXT Motors using XBOX 360/One Controller
 
 installation instructions for Windows 10/11:
 
-1. install python 3.x
+1. install python 3.x https://www.python.org/downloads/
 
 2. install required libs:
 - pip install --upgrade --pre nxt-python
